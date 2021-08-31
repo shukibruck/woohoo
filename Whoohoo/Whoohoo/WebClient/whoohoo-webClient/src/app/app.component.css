@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+  }
+
+  a {
+    color: #ff6e00;
+  }
+
+  #source {
+    background: rgba(27, 31, 35, 0.08);
+    width: 290px;
+    padding: 8px;
+    border-radius: 20px;
+    margin: 15px auto;
+    text-align: center;
+  }
+
+  #source a {
+    font-weight: bold;
+  }
